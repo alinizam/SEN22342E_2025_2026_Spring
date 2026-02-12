@@ -1,4 +1,4 @@
-package Week01Theory.Example02.LosseCouple;
+package Week01Lab.Example02.LosseCouple;
 
 public class Subject {
     IService service;

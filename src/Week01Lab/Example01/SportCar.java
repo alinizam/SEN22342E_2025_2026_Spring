@@ -1,4 +1,4 @@
-package Week01Theory.Example01;
+package Week01Lab.Example01;
 
 public class SportCar extends Car {
     void doubleSpeed(){}

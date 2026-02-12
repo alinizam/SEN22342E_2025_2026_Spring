@@ -1,6 +1,4 @@
-package Week01Theory.Example01;
-
-import Week01Theory.Example01.Car;
+package Week01Lab.Example01;
 
 public class Test {
     static void main() {

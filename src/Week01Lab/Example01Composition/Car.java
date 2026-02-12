@@ -1,4 +1,4 @@
-package Week01Theory.Example01Composition;
+package Week01Lab.Example01Composition;
 
 public class Car implements ISport,ITurbo {
 }

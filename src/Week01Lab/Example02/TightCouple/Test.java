@@ -1,4 +1,4 @@
-package Week01Theory.Example02.TightCouple;
+package Week01Lab.Example02.TightCouple;
 
 public class Test {
     static void main() {

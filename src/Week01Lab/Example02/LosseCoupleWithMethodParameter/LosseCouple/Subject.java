@@ -1,4 +1,4 @@
-package Week01Theory.Example02.LosseCoupleWithMethodParameter.LosseCouple;
+package Week01Lab.Example02.LosseCoupleWithMethodParameter.LosseCouple;
 
 public class Subject {
     IService service;
