@@ -1,4 +1,4 @@
-package Week01Lab.Example02.LosseCouple;
+package Week01Lab.Example02.LooseCouple;
 
 public class ServiceClass implements IService{
 

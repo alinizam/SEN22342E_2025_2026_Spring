@@ -1,4 +1,4 @@
-package Week01Lab.Example02.LosseCoupleWithMethodParameter.LosseCouple;
+package Week01Lab.Example02.LosseCoupleWithMethodParameter.LooseCouple;
 
 public class ServiceClass implements IService {
 
