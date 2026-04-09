@@ -12,7 +12,5 @@ public class ClientWithExternalGrammer {
             add=new AddExpression(l,r);
             System.out.println(add.interperate());
         }
-
-
     }
 }
